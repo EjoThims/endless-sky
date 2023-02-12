@@ -393,6 +393,7 @@ government "Hai"
 		"Hai Merchant (Human)" 1
 		"Hai (Unfettered)" -.1
 		"Hai (Friendly Unfettered)" .1
+		"Hai (Unfettered Civilians)" .1
 		"Merchant" .01
 		"Bounty Hunter that Attacks Hai" -.01
 		"Elenctic Commune" .1
@@ -416,6 +417,7 @@ government "Hai (Wormhole Access)"
 		"Hai Merchant (Human)" 1
 		"Hai (Unfettered)" -.1
 		"Hai (Friendly Unfettered)" .1
+		"Hai (Unfettered Civilians)" .1
 		"Merchant" .01
 		"Bounty Hunter that Attacks Hai" -.01
 		"Elenctic Commune" .1
@@ -438,6 +440,7 @@ government "Hai Merchant"
 		"Hai Merchant (Human)" .95
 		"Hai (Unfettered)" -.1
 		"Hai (Friendly Unfettered)" .1
+		"Hai (Unfettered Civilians)" .1
 		"Merchant" .01
 	"bribe" .02
 	"friendly hail" "friendly hai"
@@ -458,6 +461,7 @@ government "Hai Merchant (Sympathizers)"
 		"Hai Merchant (Human)" .95
 		"Hai (Unfettered)" .01
 		"Hai (Friendly Unfettered)" .5
+		"Hai (Unfettered Civilians)" .5
 		"Merchant" .01
 	"bribe" .02
 	"friendly hail" "friendly hai"
@@ -478,6 +482,7 @@ government "Hai Merchant (Human)"
 		"Hai Merchant (Sympathizers)" .95
 		"Hai (Unfettered)" -.2
 		"Hai (Friendly Unfettered)" .1
+		"Hai (Unfettered Civilians)" .1
 		"Merchant" .01
 	"bribe" .02
 	"friendly hail" "friendly civilian"
@@ -498,6 +503,7 @@ government "Hai (Unfettered)"
 		"Hai Merchant" -.01
 		"Hai Merchant (Sympathizers)" .1
 		"Hai (Friendly Unfettered)" 1
+		"Hai (Unfettered Civilians)" 2
 		"Hai Merchant (Human)" -.01
 		"Wanderer" -.01
 		"Pug" -.01
